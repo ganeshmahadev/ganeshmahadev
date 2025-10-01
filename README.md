@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Master’s in Computer Science, seeking to apply analytical and programming expertise within diverse IT roles. Specializes in Python, AI, software development, and machine learning applications. Committed to utilizing technology<br>to drive efficiencies and advance IT solutions in dynamic environments. Seeking to leverage my technical skills and<br>passion for problem-solving in a dynamic and challenging environment.
+Master’s in Computer Science, seeking to apply analytical and programming expertise within diverse IT roles. Specializes in Python, AI, software development, and machine learning applications. Committed to utilizing technology<br>to drive efficiencies and advance IT solutions in dynamic environments. Seeking to leverage my technical skills and<br>passion for problem-solving in a dynamic and challenging environment.
 
 
 ## 🌐 Socials:
